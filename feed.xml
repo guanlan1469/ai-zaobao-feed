@@ -37,7 +37,7 @@
     </item>
     <item>
       <title>AI 早报：预告片</title>
-      <description><![CDATA[《AI 早报》节目预告：每天 3 分钟，中文讲透 AI 新鲜事。每天早上九点更新。本节目为 AI 生成。]]></description>
+      <description><![CDATA[《AI 早报》节目预告：每天 6-8 分钟，中文讲透 AI 新鲜事。每天早上六点更新。本节目为 AI 生成。]]></description>
       <enclosure url="https://guanlan1469.github.io/ai-zaobao-feed/trailer.mp3" length="552948" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-zaobao-trailer</guid>
       <pubDate>Thu, 08 Oct 2026 10:32:00 +0800</pubDate>
