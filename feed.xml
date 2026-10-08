@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>AI 早报</title>
+    <link>https://github.com/guanlan1469/ai-zaobao-feed</link>
+    <language>zh-cn</language>
+    <description><![CDATA[每天 3 分钟，中文讲透 AI 新鲜事。每天精选 3 条过去 24 小时最重要的 AI 行业动态：大模型、芯片、应用、政策全覆盖。AI 生成，口语化表达，通勤路上听完，AI 圈大事一件不落。
+
+本节目为 AI 生成。]]></description>
+    <itunes:author>Lan</itunes:author>
+    <itunes:owner>
+      <itunes:name>Lan</itunes:name>
+      <itunes:email>guanlan1469@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:summary><![CDATA[每天 3 分钟，中文讲透 AI 新鲜事。每天精选 3 条过去 24 小时最重要的 AI 行业动态：大模型、芯片、应用、政策全覆盖。AI 生成，口语化表达，通勤路上听完，AI 圈大事一件不落。
+
+本节目为 AI 生成。]]></itunes:summary>
+    <!-- TODO: 替换为实际封面 URL（1400x1400 以上）。可用 podcast-helper 的 cover-prompt 参数生成 -->
+    <itunes:image href="https://guanlan1469.github.io/ai-zaobao-feed/cover.png"/>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <atom:link href="https://guanlan1469.github.io/ai-zaobao-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <!-- 新单集 <item> 插到这里（<channel> 内第一个 <item> 之前，即本注释行之后） -->
+  </channel>
+</rss>
