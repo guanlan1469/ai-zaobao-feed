@@ -18,19 +18,29 @@
     <itunes:summary><![CDATA[每天 6-8 分钟，中文讲透 AI 新鲜事。每天精选 3-4 条过去 24 小时最重要的 AI 行业动态：大模型、芯片、应用、政策、投融资全覆盖，不只念新闻，还讲背景和深层影响。AI 生成，口语化表达，通勤路上听完，AI 圈大事一件不落。
 
 本节目为 AI 生成。]]></itunes:summary>
-    <!-- TODO: 替换为实际封面 URL（1400x1400 以上）。可用 podcast-helper 的 cover-prompt 参数生成 -->
     <itunes:image href="https://guanlan1469.github.io/ai-zaobao-feed/cover.png"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://guanlan1469.github.io/ai-zaobao-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI 早报 EP1：三星赚疯了、AI 开始借钱烧、开源独角兽</title>
+      <title>AI 早报 EP2：GPT-6 智能界面、台积电营收破纪录、谷歌推企业 agent、Manus 拿下 5 亿美元融资</title>
+      <description><![CDATA[10 月 9 日四条 AI 大事：OpenAI 全面铺开 GPT-6 + Intelligent UI，ChatGPT 开始直接生成可交互界面；台积电 Q3 营收 1.49 万亿新台币、同比大涨 50%，用实打实的订单给"泡沫论"投票；谷歌云推出 Gemini agent，一个能在你合上电脑后继续干活的工作 agent；Manus 母公司完成超 5 亿美元融资，被收购叫停反而身价翻了几倍。本节目为 AI 生成。]]></description>
+      <enclosure url="https://guanlan1469.github.io/ai-zaobao-feed/EP2.mp3" length="7106676" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-zaobao-ep2</guid>
+      <pubDate>Fri, 09 Oct 2026 06:00:00 +0800</pubDate>
+      <itunes:duration>444</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>AI 早报 EP1：三星业绩爆了、AI 开始借钱烧、开源独角兽</title>
       <description><![CDATA[10 月 8 日三条 AI 大事：三星 Q3 利润 740 亿美元创纪录，吃透 AI 芯片红利；SpaceX、博通、甲骨文大规模举债买英伟达芯片，AI 基建开始加杠杆；Nous Research 估值 15 亿美元，开源 AI 拿到大厂的钱。本节目为 AI 生成。]]></description>
-      <enclosure url="https://guanlan1469.github.io/ai-zaobao-feed/EP1.mp3" length="5787636" type="audio/mpeg"/>
+      <enclosure url="https://guanlan1469.github.io/ai-zaobao-feed/EP1.mp3" length="5792820" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-zaobao-ep1</guid>
       <pubDate>Thu, 08 Oct 2026 10:33:00 +0800</pubDate>
-      <itunes:duration>361</itunes:duration>
+      <itunes:duration>362</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
@@ -38,7 +48,7 @@
     <item>
       <title>AI 早报：预告片</title>
       <description><![CDATA[《AI 早报》节目预告：每天 6-8 分钟，中文讲透 AI 新鲜事。每天早上六点更新。本节目为 AI 生成。]]></description>
-      <enclosure url="https://guanlan1469.github.io/ai-zaobao-feed/trailer.mp3" length="552948" type="audio/mpeg"/>
+      <enclosure url="https://guanlan1469.github.io/ai-zaobao-feed/trailer.mp3" length="544308" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-zaobao-trailer</guid>
       <pubDate>Thu, 08 Oct 2026 10:32:00 +0800</pubDate>
       <itunes:duration>34</itunes:duration>
