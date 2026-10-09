@@ -24,6 +24,17 @@
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://guanlan1469.github.io/ai-zaobao-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>AI 早报 EP3：媒体巨头起诉 OpenAI、OpenAI 营收未达预期、AI 攻下数学难题、谷歌上线 AI 内容鉴定</title>
+      <description><![CDATA[10 月 10 日四条 AI 大事：USA TODAY Co 在纽约联邦法院起诉 OpenAI，指控未经许可用数十万篇文章训练 ChatGPT、索赔超 2.5 亿美元；OpenAI 年化营收被曝不及预期 200 亿美元，美股 AI 概念股集体抛售，英伟达、甲骨文、CoreWeave 大跌；OpenAI 公开一批内部前沿模型生成的数学成果，Lean 形式化验证、平均每个成果烧掉 3 小时 Pro 算力；谷歌 SynthID Detector 全球开放，上传图片音视频就能查是不是 AI 生成的，合作伙伴含 OpenAI、英伟达、Kakao。本节目为 AI 生成。]]></description>
+      <enclosure url="https://guanlan1469.github.io/ai-zaobao-feed/EP3.mp3" length="6246708" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-zaobao-ep3</guid>
+      <pubDate>Sat, 10 Oct 2026 06:00:00 +0800</pubDate>
+      <itunes:duration>390</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>AI 早报 EP2：GPT-6 智能界面、台积电营收破纪录、谷歌推企业 agent、Manus 拿下 5 亿美元融资</title>
       <description><![CDATA[10 月 9 日四条 AI 大事：OpenAI 全面铺开 GPT-6 + Intelligent UI，ChatGPT 开始直接生成可交互界面；台积电 Q3 营收 1.49 万亿新台币、同比大涨 50%，用实打实的订单给"泡沫论"投票；谷歌云推出 Gemini agent，一个能在你合上电脑后继续干活的工作 agent；Manus 母公司完成超 5 亿美元融资，被收购叫停反而身价翻了几倍。本节目为 AI 生成。]]></description>
       <enclosure url="https://guanlan1469.github.io/ai-zaobao-feed/EP2.mp3" length="7106676" type="audio/mpeg"/>
