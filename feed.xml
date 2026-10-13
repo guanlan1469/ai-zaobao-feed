@@ -24,6 +24,17 @@
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://guanlan1469.github.io/ai-zaobao-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>AI 早报 EP7：谷歌发布 Gemini 4 Argon、OpenAI 与 Anthropic 呼吁英国强制立法、Scaleway 联手 AMD 建欧洲首台商用 AMD 超算、摩根士丹利称 AI 基建瓶颈变成缺电</title>
+      <description><![CDATA[10 月 14 日四条 AI 大事：谷歌发布旗舰模型 Gemini 4 Argon，DeepMind 换帅后的翻身仗，主打多步骤深度工作，API 早鸟价每百万 token 输入 2 美元、输出 10 美元，11 月 30 日后翻倍；OpenAI 与 Anthropic 高管现身英国议会听证会，呼吁通过强制 AI 安全法规，谷歌 DeepMind 与 Meta 反对称守住行业标准即可，听证会前两天白宫刚恢复英国对美国前沿模型的预发布测试权限，结束 17 天断供；法国云厂商 Scaleway 联手 AMD 在瑞典建欧洲首台商用 AMD 超算，搭载 Instinct MI355X，看中当地低碳电力，AMD 借 ROCm 开源生态突围推理市场；摩根士丹利报告称美国 AI 数据中心初创今年已融资 335 亿美元，约去年两倍，超八成投向电力供应与单位电耗算力，AI 基建瓶颈从缺卡变成缺电。本节目为 AI 生成。]]></description>
+      <enclosure url="https://guanlan1469.github.io/ai-zaobao-feed/EP7.mp3" length="6410868" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-zaobao-ep7</guid>
+      <pubDate>Wed, 14 Oct 2026 06:00:00 +0800</pubDate>
+      <itunes:duration>401</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>AI 早报 EP6：Meta 发布 Muse Wonder、微软自研芯片 Maia 300、无问芯穹 23 亿融资、Palantir 布局主权 AI</title>
       <description><![CDATA[10 月 13 日四条 AI 大事：Meta 发布 Muse Wonder 和 Muse Wonder Full，迄今最强模型，订阅制开辟变现新路，股价盘中涨约 4%；微软发布第三代自研 AI 芯片 Maia 300，2027 年起大规模部署，同等电耗下推理输出宣称高出主流 GPU 方案约 40%，纳德拉称这是“自研硅片最大的一次押注”；清华系无问芯穹完成 23 亿元 C 轮融资，累计 43 亿元创中国 AI 原生基础设施赛道最高纪录，千卡级异构混训平台国产与进口芯片混训利用率达 97.6%；Ondas 与 Palantir 合资成立 Regna AI，做客户主权环境内的微调专用模型、断网可用，主打政府与关键机构市场。本节目为 AI 生成。]]></description>
       <enclosure url="https://guanlan1469.github.io/ai-zaobao-feed/EP6.mp3" length="5919540" type="audio/mpeg"/>
